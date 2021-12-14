@@ -1,4 +1,4 @@
- Hi There, call me Puga 😉. I'm a Software Developer Jr. 
+ Hi There, call me Puga 😉. I'm a Software Developer. 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/willian-puga-ba4924152/)
 
